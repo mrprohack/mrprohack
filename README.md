@@ -3,7 +3,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/mrprohack?label=Followers&style=flat-square" />
-  <img src="https://komarev.com/ghpvc/?username=mrprohack&style=flat-square&label=Profile+views" />
 </p>
 
 ---
